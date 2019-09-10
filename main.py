@@ -14,6 +14,7 @@ class Person(object):
     def get_time(self):
         return self.time
 
+
 def main():
     #従業員の情報
     e0 = Person(0,"mg",[0,1],[23,30,20])
